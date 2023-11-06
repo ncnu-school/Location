@@ -1,0 +1,15 @@
+D:\Lab\VS android\Location\Location\Location\bin\Debug\netstandard2.0\Location.deps.json
+D:\Lab\VS android\Location\Location\Location\bin\Debug\netstandard2.0\Location.dll
+D:\Lab\VS android\Location\Location\Location\bin\Debug\netstandard2.0\ref\Location.dll
+D:\Lab\VS android\Location\Location\Location\bin\Debug\netstandard2.0\Location.pdb
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.csproj.AssemblyReference.cache
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfoInputs.cache
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.AssemblyInfo.cs
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.csproj.CoreCompileInputs.cache
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.dll
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\ref\Location.dll
+D:\Lab\VS android\Location\Location\Location\obj\Debug\netstandard2.0\Location.pdb
